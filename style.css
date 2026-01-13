@@ -1,0 +1,41 @@
+body {
+	/* font-family: Arial, Helvetica, sans-serif; */
+	background: #292929;
+	color: white;
+
+	margin: 1em auto;
+	padding: 0 .62em;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	float: left;
+	padding: 20px 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+#indent {
+	text-indent: 50px;
+}
+
+a {
+	color: #2962FF;
+}
+a.steampunk {
+	color: greenyellow;
+}
+a.archived {
+	color: turquoise;
+}
+a:hover {
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+}
+a:focus {
+	text-decoration: underline;
+	text-decoration-thickness: 3px;
+}
